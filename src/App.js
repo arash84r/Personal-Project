@@ -24,7 +24,7 @@ function App() {
   ];
 
   return (
-    <div className='bg-[linear-gradient(90deg,_#fcff9e_0%,_#c67700_100%)] min-h-screen flex flex-col items-center pt-5 h-screen'>
+    <div className='bg-[linear-gradient(90deg,_#fcff9e_0%,_#c67700_100%)] min-h-screen flex flex-col items-center pt-5 h-screen text-xs md:text-lg'>
 
       <Router>
         {/* Navbar با انیمیشن */}

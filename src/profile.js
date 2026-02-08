@@ -12,11 +12,11 @@ const Profile = () => {
 
                 {/* متن زیر عکس */}
                 <div className="mb-6">
-                    <h1 className="font-bold text-white text-4xl">
+                    <h1 className="font-bold text-white  text-xs md:text-3xl">
                         Arash Rahimi
                     </h1>
 
-                    <h5 className="text-white mt-2">
+                    <h5 className="text-white mt-2 text-xs md:text-lg">
                         Front-End Developer | React & Tailwind
                     </h5>
                 </div>

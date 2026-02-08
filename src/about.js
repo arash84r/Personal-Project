@@ -28,7 +28,7 @@ const About = () => {
                     initial={{ opacity: 0, x: -30 }}
                     animate={{ opacity: 1, x: 0 }}
                     transition={{ delay: 0.2 }}
-                    className="font-bold text-white text-4xl"
+                    className="font-bold text-white text-xs md:text-3xl"
                 >
                     Arash Rahimi
                 </motion.h1>
@@ -38,7 +38,7 @@ const About = () => {
                     initial={{ opacity: 0, x: -30 }}
                     animate={{ opacity: 1, x: 0 }}
                     transition={{ delay: 0.35 }}
-                    className="text-white mt-2"
+                    className="text-white mt-2  text-xs md:text-lg"
                 >
                     Front-End Developer | React & Tailwind
                 </motion.h5>
@@ -50,12 +50,11 @@ const About = () => {
                     transition={{ delay: 0.7 }}
                     className="text-white leading-8 text-xs md:text-lg mt-20"
                 >
-                    I work with modern front-end technologies to build clean, responsive, and engaging user interfaces.
-                    I’m comfortable turning designs into real, functional websites using HTML, CSS, and JavaScript,
-                    and I enjoy using frameworks like Bootstrap and Materialize to speed up development without sacrificing quality.
-                    For more dynamic experiences, I build interactive interfaces with React, and I use Git & GitHub to manage code,
-                    collaborate, and keep projects organized. I care about writing clean code, structuring projects properly,
-                    and constantly improving my skills to stay up to date with the front-end world.
+                    I work with modern front-end technologies to create clean, responsive, and engaging user interfaces.
+                    I turn designs into functional websites using HTML, CSS, and JavaScript,
+                    and use frameworks like Bootstrap and Materialize to speed up development while maintaining quality.
+                    For dynamic experiences, I build interactive interfaces with React and manage projects using Git & GitHub.
+                    I focus on clean code, proper project structure, and continuously improving my front-end skills.
                 </motion.p>
 
             </motion.div>

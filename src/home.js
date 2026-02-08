@@ -27,7 +27,7 @@ const Home = () => {
                     initial={{ opacity: 0, x: -30 }}
                     animate={{ opacity: 1, x: 0 }}
                     transition={{ delay: 0.2 }}
-                    className="font-bold text-white text-4xl"
+                    className="font-bold text-white  text-xs md:text-3xl"
                 >
                     Arash Rahimi
                 </motion.h1>
@@ -37,7 +37,7 @@ const Home = () => {
                     initial={{ opacity: 0, x: -30 }}
                     animate={{ opacity: 1, x: 0 }}
                     transition={{ delay: 0.35 }}
-                    className="text-white mt-2"
+                    className="text-white mt-2 text-xs md:text-lg"
                 >
                     Front-End Developer | React & Tailwind
                 </motion.h5>
