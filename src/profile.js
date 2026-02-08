@@ -33,6 +33,7 @@ const Profile = () => {
                             href="https://uplod.ir/c0uwj2k2k51l/20251202-043508-184714_PDF_616995.pdf.htm"
                             download
                             className="px-6 py-2 bg-white text-amber-700 rounded-lg font-semibold hover:bg-amber-100 transition"
+                            rel="noopener noreferrer"
                         >
                             Download Resume
                         </a>
@@ -41,6 +42,7 @@ const Profile = () => {
                             href="https://github.com/arash84r"
                             target="_blank"
                             className="px-6 py-2 border border-white text-white rounded-lg font-semibold hover:bg-white hover:text-amber-700 transition"
+                            rel="noopener noreferrer"
                         >
                             GitHub
                         </a>
@@ -49,6 +51,7 @@ const Profile = () => {
                             href="www.linkedin.com/in/َarashrahimi"
                             target="_blank"
                             className="px-6 py-2 border border-white text-white rounded-lg font-semibold hover:bg-white hover:text-amber-700 transition"
+                            rel="noopener noreferrer"
                         >
                             LinkedIn
                         </a>
