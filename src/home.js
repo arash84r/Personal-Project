@@ -47,7 +47,7 @@ const Home = () => {
                     initial={{ opacity: 0 }}
                     animate={{ opacity: 1 }}
                     transition={{ delay: 0.7 }}
-                    className="text-white leading-8 text-xs md:text-lg mt-20"
+                    className="text-white leading-8 text-xs md:text-lg mt-16 md:mt-20"
                 >
                     Hi, I’m Arash Rahimi, a Front-End Developer who enjoys building clean,
                     responsive, and user-friendly web interfaces. I focus on turning ideas

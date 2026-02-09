@@ -21,7 +21,7 @@ const Profile = () => {
                     </h5>
                 </div>
 
-                <div className="flex flex-wrap gap-4 mt-20">
+                <div className="flex flex-wrap gap-4 mt-16 md:mt-20">
                     <p className="text-white leading-8 text-xs md:text-lg ">
                         Want to see what I’ve been building lately?
                         Check out my projects on GitHub, connect with me on LinkedIn,
@@ -32,7 +32,7 @@ const Profile = () => {
                         <a
                             href="https://uplod.ir/c0uwj2k2k51l/20251202-043508-184714_PDF_616995.pdf.htm"
                             download
-                            className="px-6 py-2 bg-white text-amber-700 rounded-lg font-semibold hover:bg-amber-100 transition"
+                            className="px-2 md:px-6 py-2 bg-white text-amber-700 rounded-lg font-semibold hover:bg-amber-100 transition"
                             rel="noopener noreferrer"
                         >
                             Download Resume

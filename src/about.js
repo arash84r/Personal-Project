@@ -48,7 +48,7 @@ const About = () => {
                     initial={{ opacity: 0 }}
                     animate={{ opacity: 1 }}
                     transition={{ delay: 0.7 }}
-                    className="text-white leading-8 text-xs md:text-lg mt-20"
+                    className="text-white leading-8 text-xs md:text-lg mt-16 md:mt-20"
                 >
                     I work with modern front-end technologies to create clean, responsive, and engaging user interfaces.
                     I turn designs into functional websites using HTML, CSS, and JavaScript,
