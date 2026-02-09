@@ -7,7 +7,7 @@ const Profile = () => {
                 <img
                     src="/files/profile.jpg"
                     alt="profile"
-                    className="w-24 rounded-full absolute top-4 right-4 md:w-[9rem] shadow-2xl inline-block"
+                    className="w-12 rounded-full absolute top-4 right-4 md:w-[9rem] shadow-2xl inline-block"
                 />
 
                 {/* متن زیر عکس */}

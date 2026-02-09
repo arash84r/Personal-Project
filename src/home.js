@@ -19,7 +19,7 @@ const Home = () => {
                     animate={{ scale: 1, opacity: 1 }}
                     transition={{ delay: 0.4, duration: 0.5 }}
                     whileHover={{ scale: 1.1 }}
-                    className="w-24 rounded-full absolute top-4 right-4 md:w-[9rem] shadow-2xl"
+                    className="w-12 rounded-full absolute top-4 right-4 md:w-[9rem] shadow-2xl"
                 />
 
                 {/* نام */}
